@@ -1,4 +1,15 @@
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 6rem;
+  background-color: #091931;
+  background-image: url(img/biru.jpg);
+}
+#projects {
   background-color: #e2edff;
+  background-image: url(img/biru2.jpg);
+}
+section {
+  padding-top: 5rem;
+}
+body {
+  background-color: #2590e2;
 }
